@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "WONG Yee-young"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Undergraduate Student at Fudan University: BSc Candidate in Mathematics and Applied Mathematics <br /> <a href='/assets/docs/2022-07-18-CV.pdf'>CV (2022-07)</a>"
+  bio    : "Senior Undergraduate Student at Fudan University: BSc Candidate in Mathematics and Applied Mathematics <br /> <a href='/assets/docs/2022-07-18-CV.pdf' style='color: blue; text-decoration: underline;'>CV (2022-07)</a>"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
