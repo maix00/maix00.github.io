@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "VISITORS"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+​	我覺得我跟大多數人一樣喜歡交際，只要遇到血氣旺盛的人，我隨時會像水蛭那樣咬住不放。我並非生來就是隱士，若有必要，我可能會安坐在酒吧間，並且比屁股最沈的常客坐得還久。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+​	我的小屋有三把椅子：獨處用一把，朋友來用兩把，需要交際則全派上用場。當訪客很多或超過預期時，第三把椅子全歸他們了，不過他們常常為了節省空間而站著。小屋能盛那麼多男男女女真是讓人吃驚，曾有二十五或是三十個靈魂並軀體同時在屋裡，但告別時我們從未覺得太過擁擠。很多房子——不論是公房還是私宅——通常有幾乎難以數計的房間，宏大的廳堂，還有巨大的地窖，藏著酒類及和平時期的軍需品，它們高大寬敞、氣勢恢宏，跟裡面的人相比似乎大得太過誇張了，以至於人像是寄生其中的蟲子一樣。我曾目睹一個讓人愕然的場景：一次，正當侍者在什麼叫做Tremont或是Astor或是Middlesex的酒店前通知事情的時候，一隻滑稽的耗子溜出了供房客闊步的門廊，旋即在地上覓得一個窟窿後溜得無影無蹤。
